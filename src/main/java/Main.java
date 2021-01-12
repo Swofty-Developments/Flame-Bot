@@ -22,6 +22,8 @@ public class Main {
                 .setAccountType(AccountType.BOT)
                 .login()
                 .join();
+        
+        Nzg2MTg2MTQyNDAzNTI2Njc2.X9Cu5g.Gif_INLVtzCHfIBh4j-8JVqDeFY
 
         logging = api.getChannelById("798085737110437900").get().asServerTextChannel().get();
 
